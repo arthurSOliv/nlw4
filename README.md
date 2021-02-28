@@ -15,3 +15,9 @@ https://moveit-flame-seven.vercel.app/
 # REQUIREMENTS:
 - NodeJS;
 - npm or yarn;
+
+# HOW TO CLONE AND RUN
+- git clone https://github.com/arthurSOliv/nlw4.git
+- cd nlw4
+- yarn or npm install
+- yarn dev
